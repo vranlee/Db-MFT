@@ -13,8 +13,8 @@
   <img src="assets/Framework.png" width="80%">
 </p>
 <p align="center">
-  <img src="assets/GIF2.gif" height="400" />
-  <img src="assets/GIF1.gif" height="400" /> 
+  <img src="assets/GIF2.gif" height="200" />
+  <img src="assets/GIF1.gif" height="200" /> 
 </p>
 
 ---
